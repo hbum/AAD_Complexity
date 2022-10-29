@@ -55,3 +55,4 @@ DATA(1*3)
 
 Run example.m and you will be able to get the figure as below
 
+![Output_Figure](example_output_figure.jpg)
