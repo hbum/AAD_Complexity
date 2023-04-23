@@ -1,3 +1,8 @@
+# Publication
+Park, J. J., Baek, S. C., Suh, M. W., Choi, J., Kim, S. J., & Lim, Y. (2023). The effect of topic familiarity and volatility of auditory scene on selective auditory attention. Hearing Research, 108770.
+https://doi.org/10.1016/j.heares.2023.108770
+
+
 # Dataset
 
 Download link: [Will be visible Soon]
